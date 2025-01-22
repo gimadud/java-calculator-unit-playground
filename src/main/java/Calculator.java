@@ -1,17 +1,17 @@
 public class Calculator {
-    public static int add(int n, int m){
-        return n + m;
+    public static int add(int num1, int num2){
+        return num1 + num2;
     }
 
-    public static int subtract(int n, int m){
-        return n - m;
+    public static int subtract(int num1, int num2){
+        return num1 - num2;
     }
 
-    public static int multiply(int n, int m){
-        return n * m;
+    public static int multiply(int num1, int num2){
+        return num1 * num2;
     }
 
-    public static int division(int n, int m){
-        return n / m;
+    public static int division(int num1, int num2){
+        return num1 / num2;
     }
 }
